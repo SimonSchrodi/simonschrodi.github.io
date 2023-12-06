@@ -15,7 +15,7 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Workshop papers
 
-**Schrodi, S.**, Briegel, F., Argus, M., Christen, A., & Brox, T. Climate-sensitive Urban Planning through Optimization of Tree Placements. __NeurIPS 2023 Workshop: Tackling Climate Change with Machine Learning__. [arXiv link](https://arxiv.org/abs/2310.05691). [Code link](https://github.com/lmb-freiburg/tree-planting).
+**Schrodi, S.**, Briegel, F., Argus, M., Christen, A., & Brox, T. Climate-sensitive Urban Planning through Optimization of Tree Placements. _NeurIPS 2023 Workshop: Tackling Climate Change with Machine Learning_. [arXiv link](https://arxiv.org/abs/2310.05691). [Code link](https://github.com/lmb-freiburg/tree-planting).
 
 Izquierdo, S., Guerrero-Viu, J., Hauns, S., Miotto, G., **Schrodi, S.**, Biedenkapp, A., ... & Hutter, F. Bag of baselines for multi-objective joint neural architecture search and hyperparameter optimization. In _ICML 2021 Workshop: Automated Machine Learning (AutoML)_. [arXiv link](https://arxiv.org/abs/2105.01015). [OpenReview link](https://openreview.net/forum?id=yEGlj93aLFY). [Code link](https://github.com/automl/multi-obj-baselines).
 
