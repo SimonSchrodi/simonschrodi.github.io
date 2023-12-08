@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find below a list of my publications, workshop papers and preprints. The full list can also be found on my [my Google Scholar profile](https://scholar.google.com/citations?user=yC-y0PEAAAAJ&hl=en).
+Please find below a list of my publications, workshop papers and preprints. The full list can also be found on my [my Google Scholar profile](https://scholar.google.com/citations?user=yC-y0PEAAAAJ&hl=en). Since reproducibility and open science are important to me all of my first-author publications have code available.
 
 ## Conference publications
 
