@@ -11,7 +11,7 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 **Schrodi, S.**, Stoll, D., Ru, B., Sukthanker, R. S., Brox, T., & Hutter, F. Construction of Hierarchical Neural Architecture Search Spaces based on Context-free Grammars. In _NeurIPS 2023_. [arXiv link](https://arxiv.org/abs/2211.01842). [OpenReview link](https://openreview.net/forum?id=Hpt1i5j6wh). [Code link](https://github.com/automl/hierarchical_nas_construction).
 
-**Schrodi, S.**, Saikia, T., & Brox, T. Towards understanding adversarial robustness of optical flow networks. In _CVPR 2022_. [arXiv link](https://arxiv.org/abs/2103.16255). [CVF link](https://openaccess.thecvf.com/content/CVPR2022/html/Schrodi_Towards_Understanding_Adversarial_Robustness_of_Optical_Flow_Networks_CVPR_2022_paper.html). [Code link](https://github.com/lmb-freiburg/understanding_flow_robustness). [Video link][https://www.youtube.com/watch?v=pRpRWfAA8zE].
+**Schrodi, S.**, Saikia, T., & Brox, T. Towards understanding adversarial robustness of optical flow networks. In _CVPR 2022_. [arXiv link](https://arxiv.org/abs/2103.16255). [CVF link](https://openaccess.thecvf.com/content/CVPR2022/html/Schrodi_Towards_Understanding_Adversarial_Robustness_of_Optical_Flow_Networks_CVPR_2022_paper.html). [Code link](https://github.com/lmb-freiburg/understanding_flow_robustness). [Video link](https://www.youtube.com/watch?v=pRpRWfAA8zE).
 
 ## Workshop papers
 
