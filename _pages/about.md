@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Simon's personal academic website
+<!--## Simon's personal academic website-->
 Hi and welcome to my (Simon Schrodi's) personal academic website!
 
 ### About me
