@@ -14,7 +14,7 @@ projections to map future outdoor thermal comfort in cities based on a deep lear
 
 **Schrodi, S.**\*, Hoffmann, D. T.\*, Argus, M., Fischer, V., & Brox, T. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning. _ME-FoMo @ ICLR 2024_. [arXiv link](https://arxiv.org/abs/2404.07983), [OpenReview link](https://openreview.net/forum?id=7QwFMLzQHH). **Oral**.
 
-Hoffmann, D. T., **Schrodi, S.**, Behrmann, N., Fischer, V., & Brox, T. Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems. _ICML 2023_. [arXiv link](https://arxiv.org/abs/2310.12956). Also appeared at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=BlRtsEBUaY).
+Hoffmann, D. T., **Schrodi, S.**, Behrmann, N., Fischer, V., & Brox, T. Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems. _ICML 2024_. [arXiv link](https://arxiv.org/abs/2310.12956). Also appeared at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=BlRtsEBUaY).
 
 Grazzi, R.\*, Siems, J.\*, **Schrodi, S.**, Brox, T., & Hutter, F. Is Mamba Capable of In-Context Learning?. _AutoML Conference 2024_. [arXiv link](https://arxiv.org/abs/2402.03170). Also appeared at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=Iia0cnjMh2), [code link](https://github.com/automl/is_mamba_capable_of_icl).
 
