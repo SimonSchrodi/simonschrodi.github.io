@@ -9,6 +9,8 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Peer-reviewed articles
 
+**Schrodi, S.**\*, Farid, K.\*, Argus, M., & Brox, T. Latent Diffusion Counterfactual Explanations. _GCPR 2024_. [arXiv link](https://arxiv.org/abs/2310.06668). [Code link](https://github.com/lmb-freiburg/ldce).
+
 Briegel, F., **Schrodi, S.**, Sulzer, M., Brox, T., Christen, A., Pinto, J. G. Downscaling climate
 projections to map future outdoor thermal comfort in cities based on a deep learning approach. _EGU General Assembly 2024_. [Paper link](https://meetingorganizer.copernicus.org/EGU24/EGU24-16110.html).
 
@@ -29,5 +31,3 @@ Izquierdo, S., Guerrero-Viu, J., Hauns, S., Miotto, G., **Schrodi, S.**, Biedenk
 ## Preprints
 
 **Schrodi, S.**\*, Schur, J.\*, Argus, M., & Brox, T. Concept Bottleneck Models Without Predefined Concepts. _arXiv 2024_. [arXiv link](https://arxiv.org/abs/2407.03921).
-
-Farid, K.\*, **Schrodi, S.**\*, Argus, M., & Brox, T. Latent Diffusion Counterfactual Explanations. _arXiv 2023_. [arXiv link](https://arxiv.org/abs/2310.06668). [Code link](https://github.com/lmb-freiburg/ldce).
