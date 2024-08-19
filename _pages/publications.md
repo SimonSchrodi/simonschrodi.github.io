@@ -11,6 +11,8 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 **Schrodi, S.**\*, Farid, K.\*, Argus, M., & Brox, T. Latent Diffusion Counterfactual Explanations. _GCPR 2024_. [arXiv link](https://arxiv.org/abs/2310.06668). [Code link](https://github.com/lmb-freiburg/ldce).
 
+Birinxhiku, L., Stoll, D., **Schrodi, S.**, & Hutter, F. Beyond Graph-Based Modeling for Hierarchical Neural Architecture Search. _AutoML 2024 (Workshop Track)_. [OpenReview link](https://openreview.net/forum?id=gze7ISazsz). [Code link](https://github.com/automl/hnas_with_string_kernels).
+
 Briegel, F., **Schrodi, S.**, Sulzer, M., Brox, T., Christen, A., Pinto, J. G. Downscaling climate
 projections to map future outdoor thermal comfort in cities based on a deep learning approach. _EGU General Assembly 2024_. [Paper link](https://meetingorganizer.copernicus.org/EGU24/EGU24-16110.html).
 
