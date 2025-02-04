@@ -9,6 +9,8 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Peer-reviewed articles
 
+**Schrodi, S.**\*, Hoffmann, D. T.\*, Argus, M., Fischer, V., & Brox, T. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning. _ICLR 2025_. [arXiv link](https://arxiv.org/abs/2404.07983), [OpenReview link](https://openreview.net/forum?id=uAFHCZRmXk). An earlier version was presented as an **oral** presentation at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=7QwFMLzQHH).
+
 **Schrodi, S.**\*, Farid, K.\*, Argus, M., & Brox, T. Latent Diffusion Counterfactual Explanations. _GCPR 2024_. [arXiv link](https://arxiv.org/abs/2310.06668). [Code link](https://github.com/lmb-freiburg/ldce).
 
 Birinxhiku, L., Stoll, D., **Schrodi, S.**, & Hutter, F. Beyond Graph-Based Modeling for Hierarchical Neural Architecture Search. _AutoML 2024 (Workshop Track)_. [OpenReview link](https://openreview.net/forum?id=gze7ISazsz). [Code link](https://github.com/automl/hnas_with_string_kernels).
@@ -16,11 +18,9 @@ Birinxhiku, L., Stoll, D., **Schrodi, S.**, & Hutter, F. Beyond Graph-Based Mode
 Briegel, F., **Schrodi, S.**, Sulzer, M., Brox, T., Christen, A., Pinto, J. G. Downscaling climate
 projections to map future outdoor thermal comfort in cities based on a deep learning approach. _EGU General Assembly 2024_. [Paper link](https://meetingorganizer.copernicus.org/EGU24/EGU24-16110.html).
 
-**Schrodi, S.**\*, Hoffmann, D. T.\*, Argus, M., Fischer, V., & Brox, T. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning. _ME-FoMo @ ICLR 2024_. [arXiv link](https://arxiv.org/abs/2404.07983), [OpenReview link](https://openreview.net/forum?id=7QwFMLzQHH). **Oral**.
+Hoffmann, D. T., **Schrodi, S.**, Behrmann, N., Fischer, V., & Brox, T. Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems. _ICML 2024_. [arXiv link](https://arxiv.org/abs/2310.12956). An earlier version was presented at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=BlRtsEBUaY).
 
-Hoffmann, D. T., **Schrodi, S.**, Behrmann, N., Fischer, V., & Brox, T. Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems. _ICML 2024_. [arXiv link](https://arxiv.org/abs/2310.12956). Earlier version was presented at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=BlRtsEBUaY).
-
-Grazzi, R.\*, Siems, J.\*, **Schrodi, S.**, Brox, T., & Hutter, F. Is Mamba Capable of In-Context Learning?. _AutoML Conference 2024_. [arXiv link](https://arxiv.org/abs/2402.03170). Earlier version was presented at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=Iia0cnjMh2), [code link](https://github.com/automl/is_mamba_capable_of_icl).
+Grazzi, R.\*, Siems, J.\*, **Schrodi, S.**, Brox, T., & Hutter, F. Is Mamba Capable of In-Context Learning?. _AutoML Conference 2024_. [arXiv link](https://arxiv.org/abs/2402.03170). An earlier version was presented at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=Iia0cnjMh2), [code link](https://github.com/automl/is_mamba_capable_of_icl).
 
 **Schrodi, S.**, Briegel, F., Argus, M., Christen, A., & Brox, T. Climate-sensitive Urban Planning through Optimization of Tree Placements. _NeurIPS 2023 Workshop: Tackling Climate Change with Machine Learning_. [arXiv link](https://arxiv.org/abs/2310.05691). [Code link](https://github.com/lmb-freiburg/tree-planting). [Video link](https://slideslive.com/39012814/climatesensitive-urban-planning-through-optimization-of-tree-placements)
 
