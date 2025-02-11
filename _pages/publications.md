@@ -9,7 +9,7 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Peer-reviewed articles
 
-**Schrodi, S.**\*, Hoffmann, D. T.\*, Argus, M., Fischer, V., & Brox, T. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning. _ICLR 2025_. [arXiv link](https://arxiv.org/abs/2404.07983), [OpenReview link](https://openreview.net/forum?id=uAFHCZRmXk). An earlier version was presented as an **oral** presentation at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=7QwFMLzQHH).
+**Schrodi, S.**\*, Hoffmann, D. T.\*, Argus, M., Fischer, V., & Brox, T. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning. _ICLR 2025, **Oral**_. [arXiv link](https://arxiv.org/abs/2404.07983), [OpenReview link](https://openreview.net/forum?id=uAFHCZRmXk). An earlier version was presented as an **Oral** presentation at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=7QwFMLzQHH).
 
 **Schrodi, S.**\*, Farid, K.\*, Argus, M., & Brox, T. Latent Diffusion Counterfactual Explanations. _GCPR 2024_. [arXiv link](https://arxiv.org/abs/2310.06668). [Code link](https://github.com/lmb-freiburg/ldce).
 
