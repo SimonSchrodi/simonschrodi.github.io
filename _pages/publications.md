@@ -33,3 +33,5 @@ Izquierdo, S., Guerrero-Viu, J., Hauns, S., Miotto, G., **Schrodi, S.**, Biedenk
 ## Preprints
 
 **Schrodi, S.**\*, Schur, J.\*, Argus, M., & Brox, T. Concept Bottleneck Models Without Predefined Concepts. _arXiv 2024_. [arXiv link](https://arxiv.org/abs/2407.03921).
+
+Kempf, E.\*, **Schrodi, S.**\*, Argus, M., & Brox, T. When and How Does CLIP Enable Domain and Compositional Generalization?. _arXiv 2025_. [arXiv link](https://arxiv.org/abs/2502.09507).
