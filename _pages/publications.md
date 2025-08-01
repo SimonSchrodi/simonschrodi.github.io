@@ -7,7 +7,7 @@ author_profile: true
 
 Please find below a list of my publications, workshop papers and preprints. The full list can also be found on my [my Google Scholar profile](https://scholar.google.com/citations?user=yC-y0PEAAAAJ&hl=en).
 
-## Conference or journal articles
+## Conference and journal articles
 
 Kempf, E.\*, **Schrodi, S.**\*, Argus, M., & Brox, T. When and How Does CLIP Enable Domain and Compositional Generalization?. _ICML 2025_, <span style="color:#cc0000">**Spotlight**</span>. [arXiv link](https://arxiv.org/abs/2502.09507). [Code link](https://github.com/lmb-freiburg/understanding-clip-ood).
 
@@ -17,8 +17,7 @@ Kempf, E.\*, **Schrodi, S.**\*, Argus, M., & Brox, T. When and How Does CLIP Ena
 
 **Schrodi, S.**\*, Farid, K.\*, Argus, M., & Brox, T. Latent Diffusion Counterfactual Explanations. _GCPR 2024_. [arXiv link](https://arxiv.org/abs/2310.06668). [Springer link](https://link.springer.com/chapter/10.1007/978-3-031-85181-0_19). [Code link](https://github.com/lmb-freiburg/ldce).
 
-Briegel, F., **Schrodi, S.**, Sulzer, M., Brox, T., Christen, A., Pinto, J. G. Downscaling climate
-projections to map future outdoor thermal comfort in cities based on a deep learning approach. _EGU General Assembly 2024_. [Paper link](https://meetingorganizer.copernicus.org/EGU24/EGU24-16110.html).
+Briegel, F., **Schrodi, S.**, Sulzer, M., Brox, T., Christen, A., Pinto, J. G. Deep Learning enables city-wide Climate Projections of street-level Heat Stress. _Urban Climate 2025_. An earlier version was presented under the name "Downscaling climate projections to map future outdoor thermal comfort in cities based on a deep learning approach" at the _EGU General Assembly 2024_. [Paper link](https://meetingorganizer.copernicus.org/EGU24/EGU24-16110.html).
 
 Hoffmann, D. T., **Schrodi, S.**, Behrmann, N., Fischer, V., & Brox, T. Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems. _ICML 2024_. [arXiv link](https://arxiv.org/abs/2310.12956). [Code link](https://github.com/boschresearch/eurekaMoments). An earlier version was presented at the ME-FoMo workshop @ ICLR 2024 [OpenReview link](https://openreview.net/forum?id=BlRtsEBUaY).
 
