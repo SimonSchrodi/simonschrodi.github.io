@@ -9,7 +9,7 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Conference and journal articles
 
-Kempf, E.\*, **Schrodi, S.**\*, Argus, M., & Brox, T. When and How Does CLIP Enable Domain and Compositional Generalization?. _ICML 2025_, <span style="color:#cc0000">**Spotlight**</span>. [arXiv link](https://arxiv.org/abs/2502.09507). [Code link](https://github.com/lmb-freiburg/understanding-clip-ood).
+Kempf, E.\*, **Schrodi, S.**\*, Argus, M., & Brox, T. When and How Does CLIP Enable Domain and Compositional Generalization?. _ICML 2025_, <span style="color:#cc0000">**Spotlight**</span>. [OpenReview link](https://openreview.net/forum?id=Lktwi30g63). [arXiv link](https://arxiv.org/abs/2502.09507). [Code link](https://github.com/lmb-freiburg/understanding-clip-ood).
 
 **Schrodi, S.**\*, Schur, J.\*, Argus, M., & Brox, T. Concept Bottleneck Models Without Predefined Concepts. _TMLR 2025_. [arXiv link](https://arxiv.org/abs/2407.03921). [OpenReview link](https://openreview.net/forum?id=PMO30TLI4l). [Code link](https://github.com/lmb-freiburg/ucbm). [Video link](https://youtu.be/sdqfkwNge-I).
 
