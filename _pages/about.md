@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!--## Simon's personal academic website-->
-Hi and welcome to my (Simon Schrodi's) personal academic website!
+Hi and welcome to my (Simon Schrodi's) personal website!
 
 ### About me
 
