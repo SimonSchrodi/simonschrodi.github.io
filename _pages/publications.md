@@ -35,4 +35,8 @@ Birinxhiku, L., Stoll, D., **Schrodi, S.**, & Hutter, F. Beyond Graph-Based Mode
 
 Izquierdo, S., Guerrero-Viu, J., Hauns, S., Miotto, G., **Schrodi, S.**, Biedenkapp, A., Elsken, T., Deng, D., Lindauer, M., & Hutter, F. Bag of baselines for multi-objective joint neural architecture search and hyperparameter optimization. In _ICML 2021 Workshop: Automated Machine Learning (AutoML)_. [arXiv link](https://arxiv.org/abs/2105.01015). [OpenReview link](https://openreview.net/forum?id=yEGlj93aLFY). [Code link](https://github.com/automl/multi-obj-baselines). [Video link](https://slideslive.com/38962449/bag-of-baselines-for-multiobjective-joint-neural-architecture-search-and-hyperparameter-optimization)
 
-<!-- ## Preprints -->
+## Preprints
+
+**Schrodi, S.**, Kempf, E., Barez, F., & Brox, T. Towards Understanding Subliminal Learning: When and How Hidden Biases Transfer. _arXiv 2025_. [arXiv link](https://arxiv.org/abs/2509.23886).
+
+Farid, K., Sahay, R., Alnaggar, Y. A., **Schrodi, S.**, Fischer, V., Schmid, C., & Brox, T. What Drives Compositional Generalization in Visual Generative Models?. _arXiv 2025_. [arXiv link](https://arxiv.org/abs/2510.03075).
