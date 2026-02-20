@@ -9,6 +9,10 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Conference and journal articles
 
+**Schrodi, S.**, Kempf, E., Barez, F., & Brox, T. Towards Understanding Subliminal Learning: When and How Hidden Biases Transfer. _ICLR 2026_. [OpenReview link](https://openreview.net/forum?id=IelhmYSjPt). [arXiv link](https://arxiv.org/abs/2509.23886).
+
+Fünfgeld, H., Christen, A.,Briegel, F., **Schrodi, S.** , Speidel, A., Felder, C., Hoffmann, J., Irscheid, L., Merkle, D., Meyer, J., Schindler, D., Wehrle, J., & Zengerling, C. Optimizing urban greening and densification in the context of outdoor heat: Opportunities for AI-supported urban adaptation. _Landscape and Urban Planning 2026_. [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0169204625002816).
+
 Kempf, E.\*, **Schrodi, S.**\*, Argus, M., & Brox, T. When and How Does CLIP Enable Domain and Compositional Generalization?. _ICML 2025_, <span style="color:#cc0000">**Spotlight**</span>. [OpenReview link](https://openreview.net/forum?id=Lktwi30g63). [arXiv link](https://arxiv.org/abs/2502.09507). [Code link](https://github.com/lmb-freiburg/understanding-clip-ood).
 
 **Schrodi, S.**\*, Schur, J.\*, Argus, M., & Brox, T. Concept Bottleneck Models Without Predefined Concepts. _TMLR 2025_, <span style="color:#cc0000">**J2C Certification**</span>. [arXiv link](https://arxiv.org/abs/2407.03921). [OpenReview link](https://openreview.net/forum?id=PMO30TLI4l). [Code link](https://github.com/lmb-freiburg/ucbm). [Video link](https://youtu.be/sdqfkwNge-I).
@@ -37,6 +41,6 @@ Izquierdo, S., Guerrero-Viu, J., Hauns, S., Miotto, G., **Schrodi, S.**, Biedenk
 
 ## Preprints
 
-**Schrodi, S.**, Kempf, E., Barez, F., & Brox, T. Towards Understanding Subliminal Learning: When and How Hidden Biases Transfer. _arXiv 2025_. [arXiv link](https://arxiv.org/abs/2509.23886).
+Kempf, E., **Schrodi, S.**, Cywiński, B., Brox, T., Nanda, N., & Conmy, A. Simple LLM Baselines are Competitive for Model Diffing. _arXiv 2026_. [arXiv link](https://arxiv.org/abs/2602.10371). [Code link](https://github.com/eliaskempf/model-diffing).
 
 Farid, K., Sahay, R., Alnaggar, Y. A., **Schrodi, S.**, Fischer, V., Schmid, C., & Brox, T. What Drives Compositional Generalization in Visual Generative Models?. _arXiv 2025_. [arXiv link](https://arxiv.org/abs/2510.03075).
