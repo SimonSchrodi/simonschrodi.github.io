@@ -9,7 +9,7 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Conference and journal articles
 
-**Schrodi, S.**, Kempf, E., Barez, F., & Brox, T. Towards Understanding Subliminal Learning: When and How Hidden Biases Transfer. _ICLR 2026_. [OpenReview link](https://openreview.net/forum?id=IelhmYSjPt). [arXiv link](https://arxiv.org/abs/2509.23886).
+**Schrodi, S.**\*, Kempf, E.\*, Barez, F., & Brox, T. Towards Understanding Subliminal Learning: When and How Hidden Biases Transfer. _ICLR 2026_. [OpenReview link](https://openreview.net/forum?id=IelhmYSjPt). [arXiv link](https://arxiv.org/abs/2509.23886).
 
 Fünfgeld, H., Christen, A.,Briegel, F., **Schrodi, S.** , Speidel, A., Felder, C., Hoffmann, J., Irscheid, L., Merkle, D., Meyer, J., Schindler, D., Wehrle, J., & Zengerling, C. Optimizing urban greening and densification in the context of outdoor heat: Opportunities for AI-supported urban adaptation. _Landscape and Urban Planning 2026_. [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0169204625002816).
 
