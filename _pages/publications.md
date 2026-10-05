@@ -9,6 +9,8 @@ Please find below a list of my publications, workshop papers and preprints. The 
 
 ## Conference and journal articles
 
+Farid, K.\*, Sahay, R.\*, Alnaggar, Y. A.\*, **Schrodi, S.**, Fischer, V., Schmid, C., & Brox, T. What Drives Compositional Generalization in Visual Generative Models?. _NeurIPS 2026_. [arXiv link](https://arxiv.org/abs/2510.03075). An earlier version was presented at the 2nd workshop on world models @ ICLR 2026 [OpenReview link](https://openreview.net/forum?id=k5Kh1XviiM)
+
 **Schrodi, S.**\*, Kempf, E.\*, Barez, F., & Brox, T. Towards Understanding Subliminal Learning: When and How Hidden Biases Transfer. _ICLR 2026_. [OpenReview link](https://openreview.net/forum?id=IelhmYSjPt). [arXiv link](https://arxiv.org/abs/2509.23886).
 
 Fünfgeld, H., Christen, A.,Briegel, F., **Schrodi, S.** , Speidel, A., Felder, C., Hoffmann, J., Irscheid, L., Merkle, D., Meyer, J., Schindler, D., Wehrle, J., & Zengerling, C. Optimizing urban greening and densification in the context of outdoor heat: Opportunities for AI-supported urban adaptation. _Landscape and Urban Planning 2026_. [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0169204625002816).
@@ -33,6 +35,8 @@ Grazzi, R.\*, Siems, J.\*, **Schrodi, S.**, Brox, T., & Hutter, F. Is Mamba Capa
 
 ## Workshop articles
 
+Kempf, E., **Schrodi, S.**, Cywiński, B., Brox, T., Nanda, N., & Conmy, A. Simple LLM Baselines are Competitive for Model Diffing. _ICLR 2026 Workshop on Trustworthy AI_. [OpenReview link](https://openreview.net/forum?id=sJiVn451xy), [arXiv link](https://arxiv.org/abs/2602.10371). [Code link](https://github.com/eliaskempf/model-diffing).
+
 Birinxhiku, L., Stoll, D., **Schrodi, S.**, & Hutter, F. Beyond Graph-Based Modeling for Hierarchical Neural Architecture Search. _AutoML 2024 (Workshop Track)_. [OpenReview link](https://openreview.net/forum?id=gze7ISazsz). [Code link](https://github.com/automl/hnas_with_string_kernels).
 
 **Schrodi, S.**, Briegel, F., Argus, M., Christen, A., & Brox, T. Climate-sensitive Urban Planning through Optimization of Tree Placements. _NeurIPS 2023 Workshop: Tackling Climate Change with Machine Learning_. [arXiv link](https://arxiv.org/abs/2310.05691). [Code link](https://github.com/lmb-freiburg/tree-planting). [Video link](https://slideslive.com/39012814/climatesensitive-urban-planning-through-optimization-of-tree-placements).
@@ -41,6 +45,4 @@ Izquierdo, S., Guerrero-Viu, J., Hauns, S., Miotto, G., **Schrodi, S.**, Biedenk
 
 ## Preprints
 
-Kempf, E., **Schrodi, S.**, Cywiński, B., Brox, T., Nanda, N., & Conmy, A. Simple LLM Baselines are Competitive for Model Diffing. _arXiv 2026_. [arXiv link](https://arxiv.org/abs/2602.10371). [Code link](https://github.com/eliaskempf/model-diffing).
-
-Farid, K., Sahay, R., Alnaggar, Y. A., **Schrodi, S.**, Fischer, V., Schmid, C., & Brox, T. What Drives Compositional Generalization in Visual Generative Models?. _arXiv 2025_. [arXiv link](https://arxiv.org/abs/2510.03075).
+Sheshadri, A., Ewart, A., Kempf, E., Fronsdal, K., Gupta, I., **Schrodi, S.**, Conmy, A., Bowman, S.R., Price, S., Marks, S., Wang, R. AuditBench: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors. _arXiv 2026_. [arXiv link](https://arxiv.org/abs/2602.22755). [Code link](https://github.com/safety-research/auditing-agents).
